@@ -11,3 +11,4 @@ b) The application can move from any page to any other page
 c) Easy to extend and expand code
 e) Self documenting code. Nothing is hidden more than a file away.
 
+Website can be accessed via https://cs.utm.utoronto.ca/~oakleyry/a1/games/
